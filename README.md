@@ -51,11 +51,3 @@ La plataforma busca complementar la educación tradicional permitiendo a estudia
 
 ## Nuestra Visión
 RALQ busca transformar la manera en que los estudiantes interactúan con la química, incorporando tecnologías inmersivas que faciliten la comprensión de conceptos científicos y fomenten experiencias de aprendizaje más significativas.
-
----
-
-<div align="center">
-  
-### Haciendo  la educación  química mas dinámica  y accesible
-
-</div>
