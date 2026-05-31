@@ -11,7 +11,12 @@
 [![Clerk](https://img.shields.io/badge/Clerk-Auth-6c47ff?logo=clerk&logoColor=white)](https://clerk.com/)
 [![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel)](https://vercel.com/) 
 
-<img width="100%" src="https://github.com/user-attachments/assets/ddf427a5-d7c1-4b60-85dd-de9941a7f73e">
+<img height="733" alt="0ae068be-43a2-4a94-8857-27dba07430f8" src="https://github.com/user-attachments/assets/ddf427a5-d7c1-4b60-85dd-de9941a7f73e" />
+
+  <br/>
+  <br/>
+<img height="733" alt="8ffd2be5-9d18-43f7-bc43-fde4ef977f08" src="https://github.com/user-attachments/assets/907cc7e7-afad-492d-93d1-c0b1e3f710be" />
+
 </div>
 
 ---
@@ -25,13 +30,13 @@ La plataforma busca complementar la educación tradicional permitiendo a estudia
 
 ##  Características
 
-- 🧬 Modelos moleculares interactivos.
-- 🔬 Instrumentos de laboratorio en 3D.
-- 👨‍🏫 Recursos educativos complementarios.
-- 🌐 Plataforma accesible desde navegador web.
-- ⚡ Interfaz moderna y responsiva.
-- 🔐 Sistema de autenticación.
-- 📚 Organización de contenido educativo.
+- Modelos moleculares interactivos.
+- Instrumentos de laboratorio en 3D.
+- Recursos educativos complementarios.
+- Plataforma accesible desde navegador web.
+- Interfaz moderna y responsiva.
+- Sistema de autenticación.
+- Organización de contenido educativo.
 
 ---
 
@@ -46,11 +51,3 @@ La plataforma busca complementar la educación tradicional permitiendo a estudia
 
 ## Nuestra Visión
 RALQ busca transformar la manera en que los estudiantes interactúan con la química, incorporando tecnologías inmersivas que faciliten la comprensión de conceptos científicos y fomenten experiencias de aprendizaje más significativas.
-
----
-
-<div align="center">
-  
-### Haciendo  la educación  química mas dinámica  y accesible
-
-</div>
