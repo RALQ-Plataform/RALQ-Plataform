@@ -25,13 +25,13 @@ La plataforma busca complementar la educación tradicional permitiendo a estudia
 
 ##  Características
 
-- 🧬 Modelos moleculares interactivos.
-- 🔬 Instrumentos de laboratorio en 3D.
-- 👨‍🏫 Recursos educativos complementarios.
-- 🌐 Plataforma accesible desde navegador web.
-- ⚡ Interfaz moderna y responsiva.
-- 🔐 Sistema de autenticación.
-- 📚 Organización de contenido educativo.
+- Modelos moleculares interactivos.
+- Instrumentos de laboratorio en 3D.
+- Recursos educativos complementarios.
+- Plataforma accesible desde navegador web.
+- Interfaz moderna y responsiva.
+- Sistema de autenticación.
+- Organización de contenido educativo.
 
 ---
 
