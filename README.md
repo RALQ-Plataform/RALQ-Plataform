@@ -1,5 +1,5 @@
 <div align="center">
- <h2> RALQ 2</h2>
+ <h2>RALQ</h2>
  </div>
 
 <div align="center">
