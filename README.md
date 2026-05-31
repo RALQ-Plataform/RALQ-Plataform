@@ -18,7 +18,7 @@
 
 ## Acerca de RALQ
 
-RALQ es una plataforma web educativa enfocada en la enseñanza de la química a través de modelos tridimensionales interactivos y experiencias de Realidad Aumentada.
+RALQ es una plataforma web educativa enfocada en la enseñanza de la química a través de modelos 3D.
 La plataforma busca complementar la educación tradicional permitiendo a estudiantes y docentes explorar instrumentos de laboratorio y estructuras moleculares desde cualquier dispositivo compatible.
 
 ---
